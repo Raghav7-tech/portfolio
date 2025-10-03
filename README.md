@@ -38,8 +38,8 @@ open index.html
 
 Feel free to reach out!
 
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [your-linkedin-profile]
+- **Email:** [raghavdhingra.ymca@example.com]
+- **LinkedIn:** [www.linkedin.com/in/raghav-dhingrax]
 
 ---
 
